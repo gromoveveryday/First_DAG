@@ -1,2 +1,2 @@
 # first_DAG
-My first DAG
+In this repository is .py file. This is my first DAG I wrote by Python using Clickhouse database and Apache Airflow.  Globally I pushed on Airflow 4 DAGs when I practiced. The main target of this DAG was make table in Clickhouse which shows quantity of likes, views messages send and DAU metric groupped by gender/os/age. The source of this data were Clickhouse databases of app which has feed and messages. The table is updating every 6 p.m.  Moscow time.
